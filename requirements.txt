@@ -1,0 +1,3 @@
+openai==0.26.1
+gradio==3.16.2
+git+https://github.com/jdepoix/youtube-transcript-api
